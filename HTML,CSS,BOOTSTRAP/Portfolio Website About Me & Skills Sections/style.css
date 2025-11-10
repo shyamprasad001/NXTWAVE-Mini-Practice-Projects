@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.portfolio-aboutme-bg-container {
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.portfolio-aboutme-caption {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.portfolio-aboutme-heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.portfolio-about-me-img {
+    border-radius: 8px;
+}
+
+.portfolio-aboutme-description {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.portfolio-skills-bg-container {
+    background-color: #1f2933;
+    background-size: cover;
+}
+
+.portfolio-skills-caption {
+    color: #cced00;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.portfolio-skills-bg-container {
+    background-color: #1f2933;
+}
+
+.portfolio-skills-card {
+    background-color: #323f4b;
+    border-radius: 8px;
+    padding: 15px;
+
+}
+
+.portfolio-skills-card-image {
+    height: 90px;
+    width: 80px;
+}
+
+.portfolio-skills-card-title {
+    font-family: Roboto;
+    font-size: 22px;
+    color: #ffffff;
+    font-weight: 700;
+}
