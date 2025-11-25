@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-services-bg-container {
+    background-color: #ffffff;
+    height: 100vh;
+    background-size: cover;
+}
+
+.ecommerce-services-section-heading {
+    font-family: Roboto;
+    font-size: 35px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.ecommerce-services-section-description {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #616c7c;
+}
+
+.ecommerce-services-section-card {
+    background-color: #ffffff;
+
+}
+
+.ecommerce-services-section-card-image {
+    height: 90px;
+    width: 90px;
+}
+
+.ecommerce-services-section-card-description {
+    font-family: Roboto;
+    color: #7b8794;
+    font-size: 17px;
+}
+
+.ecommerce-services-section-card-caption {
+    font-family: Roboto;
+    color: #1f2933;
+    font-size: 25px;
+}
