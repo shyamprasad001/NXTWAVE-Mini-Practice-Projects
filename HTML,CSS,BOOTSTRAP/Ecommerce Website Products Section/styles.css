@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-website-products-heading {
+    font-family: Roboto;
+    font-size: 30px;
+    color: #183b56;
+    font-weight: 700;
+}
+
+.ecommerce-website-products-card {
+    border-radius: 15px;
+}
+
+.ecommerce-website-products-card-heading {
+    font-family: Roboto;
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.ecommerce-website-products-card-description {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.custom-button {
+    color: #ff9f00;
+    background-color: #ffffff;
+    font-weight: 600;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+
+.products-card {
+    height: 328px;
+    padding: 20px;
+    border-radius: 16px;
+}
+
+.headphones-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+}
+
+.laptop-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+}
+
+.modal-title {
+    font-size: 30px;
+}
+
+.modal-description {
+    font-size: 18px;
+    font-family: Roboto;
+}
+
+.modal-headings {
+    color: #323f4b;
+    font-weight: 600;
+    font-family: Roboto;
+    font-size: 20px;
+}
