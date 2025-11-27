@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.offers-bg-container {
+    background-image: linear-gradient(to left, #dd5d97, #f49541);
+    background-size: cover;
+}
+
+.offers-heading {
+    font-family: bree serif;
+    font-size: 35px;
+    color: #ad2167;
+}
+
+.offers-description {
+    font-family: Roboto;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.offer {
+    font-style: italic;
+    font-weight: 700;
+}
