@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.ecommerce-explore-bg-container {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.explore-heading {
+    font-family: Roboto;
+    font-size: 55px;
+    color: #183b56;
+    font-weight: 600;
+}
+
+.explore-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+.card-title {
+    font-family: Roboto;
+    font-size: 37px;
+    color: #1f2933;
+    font-weight: 600;
+}
+
+.card-image {
+    border-radius: 25px;
+    width: 100%;
+}
+
+.image-caption {
+    font-family: Roboto;
+    color: #1f2933;
+    font-size: 20px;
+}
+
+.card-button {
+    font-family: Roboto;
+    color: #ff9f00;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.card-tv-image {
+    border-radius: 25px;
+
+}
