@@ -25,6 +25,7 @@ function onSkillStatusChange(checkboxId, labelId) {
 function createAndAppendSkill(skill) {
   let skillId = "skill" + skill.uniqueNo;
   let checkboxId = "checkbox" + skill.uniqueNo;
+  let labelId = "label" + skill.uniqueNo;
 
   let skillElement = document.createElement("li");
   skillElement.classList.add("skills-list-container", "d-flex", "flex-row");
