@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+}
+
+.report-bg-continer {
+  background-image: linear-gradient(#b96fa1, #5a3f8c);
+  background-size: cover;
+  padding: 20px;
+}
+
+.report-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.location {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #ffffff;
+}
+
+.weather-condition {
+  font-family: Roboto;
+  font-size: 23px;
+  color: #ffffff;
+}
+
+.humidity {
+  font-family: Roboto;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.image {
+  height: 120px;
+  margin-left: 20px;
+}
+
+.day {
+  color: #ffffff;
+}
+
+.report-image {
+  height: 40px;
+}
+
+.temparature {
+  color: #ffffff;
+  font-family: Roboto;
+}
+
+.condition {
+  color: #ffffff;
+  font-family: Roboto;
+}
+
+@media screen and (max-width: 899px) {
+  .reports-container {
+    background-color: #ffffff20;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+  }
+
+  .report {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .reports-container {
+    display: flex;
+    flex-direction: row;
+    border-radius: 20px;
+    justify-content: space-around;
+  }
+
+  .report {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+}
